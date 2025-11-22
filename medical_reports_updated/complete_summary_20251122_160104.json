@@ -1,0 +1,257 @@
+{
+  "timestamp": "20251122_160104",
+  "pipeline_status": "CRITICAL",
+  "medical_plan": {
+    "diagnostic_summary": "The patient presents with metabolic syndrome characterized by Type 2 Diabetes Mellitus, essential hypertension, hyperlipidemia, and symptoms consistent with GERD.",
+    "treatment_plan": [
+      {
+        "medication": "Metformin",
+        "dosage": "500mg",
+        "frequency": "1 tablet twice daily",
+        "administration_instructions": "With meals",
+        "duration": "Chronic",
+        "purpose": "To improve glycemic control in Type 2 Diabetes Mellitus"
+      },
+      {
+        "medication": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "1 tablet once daily",
+        "administration_instructions": "With or without food",
+        "duration": "Chronic",
+        "purpose": "To manage hypertension"
+      },
+      {
+        "medication": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "1 tablet once daily",
+        "administration_instructions": "Evening, with or without food",
+        "duration": "Chronic",
+        "purpose": "To manage hyperlipidemia"
+      },
+      {
+        "medication": "Omeprazole",
+        "dosage": "20mg",
+        "frequency": "1 capsule once daily",
+        "administration_instructions": "Before breakfast",
+        "duration": "8 weeks",
+        "purpose": "To manage symptoms of GERD"
+      }
+    ],
+    "medical_recommendations": [
+      "Encourage dietary modifications focusing on low-carb and low-sodium options",
+      "Promote physical activity tailored to patient's capacity",
+      "Monitor blood glucose levels regularly",
+      "Regular blood pressure monitoring at home"
+    ],
+    "attention_flag": "Non-adherence to medication needs urgent intervention to prevent further health complications"
+  },
+  "nutrition_plan": {
+    "diet_overview": {
+      "strategy_name": "Low-Carbohydrate Heart-Healthy",
+      "daily_calorie_target": "1600 kcal",
+      "macro_distribution": "30% Carbs, 40% Protein, 30% Fat"
+    },
+    "weekly_plan": {
+      "Monday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Oatmeal with 30g almonds and 1/2 banana",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Grilled chicken salad with mixed greens, 100g chicken, cherry tomatoes, olive oil dressing",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Baked salmon with 150g asparagus and quinoa (1/2 cup)",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Tuesday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Greek yogurt (200g) with 50g berries",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Turkey and cucumber wrap in whole-grain tortilla",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Stir-fried tofu (150g) with broccoli and bell peppers",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Wednesday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Smoothie with spinach, 100g avocado, unsweetened almond milk",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Quinoa salad with 50g feta cheese, cucumber, and olives",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Grilled shrimp (150g) with zucchini noodles",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Thursday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Two boiled eggs with 1 slice whole grain toast",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Lentil soup with side of mixed greens",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Oven-roasted chicken thighs (150g) with Brussels sprouts",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Friday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Chia pudding made with 40g chia seeds and 200ml almond milk",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Tuna salad with mixed vegetables and vinaigrette",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Beef stir-fry (150g) with asparagus and carrots",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Saturday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Scrambled eggs (2) with spinach and mushrooms",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Baked falafel with tahini and a side salad",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Pan-seared cod (150g) with steamed green beans",
+          "meds": "Lisinopril"
+        }
+      ],
+      "Sunday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Cottage cheese (200g) with pineapple chunks",
+          "meds": "Omeprazole, Metformin"
+        },
+        {
+          "meal": "Lunch",
+          "time": "12:30",
+          "food": "Grilled vegetable and quinoa bowl",
+          "meds": "Metformin"
+        },
+        {
+          "meal": "Dinner",
+          "time": "19:00",
+          "food": "Stuffed peppers with ground turkey (150g) and brown rice",
+          "meds": "Lisinopril"
+        }
+      ]
+    },
+    "shopping_list_categories": {
+      "produce": [
+        "Bananas",
+        "Berries",
+        "Mixed greens",
+        "Tomatoes",
+        "Cucumbers",
+        "Broccoli",
+        "Bell peppers",
+        "Spinach",
+        "Avocado",
+        "Zucchini",
+        "Brussels sprouts",
+        "Carrots",
+        "Pineapple"
+      ],
+      "proteins": [
+        "Chicken breast",
+        "Turkey breast",
+        "Salmon",
+        "Shrimp",
+        "Tofu",
+        "Beef",
+        "Eggs",
+        "Cottage cheese",
+        "Feta cheese"
+      ],
+      "grains": [
+        "Oatmeal",
+        "Whole grain tortillas",
+        "Quinoa",
+        "Brown rice",
+        "Chia seeds"
+      ],
+      "other": [
+        "Almonds",
+        "Olive oil",
+        "Tahini",
+        "Vinaigrette",
+        "Unsweetened almond milk",
+        "Lentils",
+        "Falafel"
+      ]
+    }
+  },
+  "psychological_assessment": {
+    "daily_analysis": "Patient reports persistent fatigue and overwhelming stress, correlating with low sleep hours and poor HRV. Diet and medication adherence concerns noted.",
+    "adherence_score": "LOW",
+    "detected_anomalies": [
+      "Skipped Metformin doses today",
+      "Low HRV (22)",
+      "Insufficient sleep (4.5 hours)",
+      "High perceived stress (5)",
+      "Low activity level (2500 steps)"
+    ],
+    "pipeline_status": "CRITICAL",
+    "patient_message": "I understand you’re feeling overwhelmed and tired. It’s important to address your medication and lifestyle changes to help you feel better.",
+    "doctor_report": "Patient skipped Metformin doses which is critical for managing Type 2 Diabetes. Low HRV and insufficient sleep indicate high physiological stress, exacerbating health issues. Immediate intervention is necessary."
+  },
+  "doctor_report_generated": "Patient skipped Metformin doses which is critical for managing Type 2 Diabetes. Low HRV and insufficient sleep indicate high physiological stress, exacerbating health issues. Immediate intervention is necessary.",
+  "requires_medical_review": true
+}

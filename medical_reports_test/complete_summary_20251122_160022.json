@@ -1,0 +1,248 @@
+{
+  "timestamp": "20251122_160022",
+  "pipeline_status": "CRITICAL",
+  "medical_plan": {
+    "diagnostic_summary": "The patient presents with Type 2 Diabetes Mellitus, uncontrolled Essential Hypertension, Hyperlipidemia, and GERD, characterized by fatigue, nocturia, and burning sensation in the chest/throat postprandially.",
+    "treatment_plan": [
+      {
+        "medication": "Metformin",
+        "dosage": "500 mg",
+        "frequency": "1 tablet twice daily",
+        "administration_instructions": "With meals",
+        "duration": "Chronic",
+        "purpose": "To improve glycemic control in Type 2 Diabetes"
+      },
+      {
+        "medication": "Lisinopril",
+        "dosage": "10 mg",
+        "frequency": "1 tablet daily",
+        "administration_instructions": "On an empty stomach",
+        "duration": "Chronic",
+        "purpose": "To manage hypertension and provide renal protective effects"
+      },
+      {
+        "medication": "Atorvastatin",
+        "dosage": "40 mg",
+        "frequency": "1 tablet daily",
+        "administration_instructions": "In the evening",
+        "duration": "Chronic",
+        "purpose": "To reduce LDL cholesterol levels and manage hyperlipidemia"
+      },
+      {
+        "medication": "Omeprazole",
+        "dosage": "20 mg",
+        "frequency": "1 capsule daily",
+        "administration_instructions": "Before meals",
+        "duration": "8 weeks",
+        "purpose": "To alleviate symptoms of GERD"
+      }
+    ],
+    "medical_recommendations": [
+      "Encourage weight loss through diet and exercise.",
+      "Implement a low-sodium, low-carb diet.",
+      "Monitor blood pressure regularly.",
+      "Regular follow-ups for HbA1c and lipid levels."
+    ],
+    "attention_flag": "None"
+  },
+  "nutrition_plan": {
+    "diet_overview": {
+      "strategy_name": "Low-Carb Mediterranean",
+      "daily_calorie_target": "1600 kcal",
+      "macro_distribution": "40% Carbs, 30% Protein, 30% Fat"
+    },
+    "weekly_plan": {
+      "Monday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Scrambled eggs with spinach",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Grilled chicken salad with olive oil dressing",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Baked salmon with steamed broccoli",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Tuesday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Greek yogurt with berries",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Quinoa bowl with mixed vegetables and chickpeas",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Stir-fried tofu with bell peppers",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Wednesday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Oatmeal with sliced almonds",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Lentil soup with side salad",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Grilled shrimp with asparagus",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Thursday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Smoothie with spinach, banana, and almond milk",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Turkey and avocado wrap with lettuce",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Zucchini noodles with marinara and meatballs",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Friday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Whole grain toast with avocado",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Grilled fish tacos with cabbage slaw",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Roasted chicken with green beans",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Saturday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Chia seed pudding with strawberries",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Egg salad in lettuce wraps",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Beef stir-fry with broccoli",
+          "meds": "Omeprazole 20 mg"
+        }
+      ],
+      "Sunday": [
+        {
+          "meal": "Breakfast",
+          "time": "08:00",
+          "food": "Fruit salad with nuts",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Lunch",
+          "time": "13:00",
+          "food": "Chicken Caesar salad without croutons",
+          "meds": "Metformin 500 mg"
+        },
+        {
+          "meal": "Dinner",
+          "time": "20:00",
+          "food": "Stuffed bell peppers with quinoa",
+          "meds": "Omeprazole 20 mg"
+        }
+      ]
+    },
+    "shopping_list_categories": {
+      "produce": [
+        "Spinach",
+        "Broccoli",
+        "Berries",
+        "Bell Peppers",
+        "Asparagus",
+        "Zucchini",
+        "Lettuce",
+        "Strawberries",
+        "Nuts",
+        "Banana",
+        "Cabbage",
+        "Fruit"
+      ],
+      "proteins": [
+        "Eggs",
+        "Chicken Breast",
+        "Salmon",
+        "Tofu",
+        "Shrimp",
+        "Turkey",
+        "Ground Beef"
+      ],
+      "grains": [
+        "Quinoa",
+        "Whole grain bread",
+        "Oatmeal"
+      ],
+      "other": [
+        "Olive oil",
+        "Almond milk",
+        "Chia seeds",
+        "Marinara sauce",
+        "Spices"
+      ]
+    }
+  },
+  "psychological_assessment": {
+    "daily_analysis": "Patient reports significant stress and low energy, correlating with poor sleep quality (4.5 hours) and low HRV (22). Energy levels are likely hindered by fatigue and current medications. The burning sensation post-dinner may relate to today's meals, but adherence to medication is unclear.",
+    "adherence_score": "LOW",
+    "detected_anomalies": [
+      "Low sleep hours (4.5 hours)",
+      "Low HRV (22)",
+      "Skipped medication (need confirmation on Metformin and Omeprazole adherence)"
+    ],
+    "pipeline_status": "CRITICAL",
+    "patient_message": "I understand that managing your health can feel overwhelming, especially with how tired you've been. It's crucial we ensure you're sticking to your treatment plan to prevent further complications. Let's focus on this together.",
+    "doctor_report": "The low sleep hours and HRV suggest physiological stress, potentially exacerbating hypertension and diabetes. Confirmed non-adherence to medication needs to be addressed urgently to avoid further health issues."
+  },
+  "doctor_report_generated": "The low sleep hours and HRV suggest physiological stress, potentially exacerbating hypertension and diabetes. Confirmed non-adherence to medication needs to be addressed urgently to avoid further health issues.",
+  "requires_medical_review": true
+}

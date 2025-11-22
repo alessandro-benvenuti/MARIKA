@@ -1,0 +1,44 @@
+{
+  "diagnostic_summary": "The patient presents with metabolic syndrome characterized by Type 2 Diabetes Mellitus, essential hypertension, hyperlipidemia, and symptoms consistent with GERD.",
+  "treatment_plan": [
+    {
+      "medication": "Metformin",
+      "dosage": "500mg",
+      "frequency": "1 tablet twice daily",
+      "administration_instructions": "With meals",
+      "duration": "Chronic",
+      "purpose": "To improve glycemic control in Type 2 Diabetes Mellitus"
+    },
+    {
+      "medication": "Lisinopril",
+      "dosage": "10mg",
+      "frequency": "1 tablet once daily",
+      "administration_instructions": "With or without food",
+      "duration": "Chronic",
+      "purpose": "To manage hypertension"
+    },
+    {
+      "medication": "Atorvastatin",
+      "dosage": "20mg",
+      "frequency": "1 tablet once daily",
+      "administration_instructions": "Evening, with or without food",
+      "duration": "Chronic",
+      "purpose": "To manage hyperlipidemia"
+    },
+    {
+      "medication": "Omeprazole",
+      "dosage": "20mg",
+      "frequency": "1 capsule once daily",
+      "administration_instructions": "Before breakfast",
+      "duration": "8 weeks",
+      "purpose": "To manage symptoms of GERD"
+    }
+  ],
+  "medical_recommendations": [
+    "Encourage dietary modifications focusing on low-carb and low-sodium options",
+    "Promote physical activity tailored to patient's capacity",
+    "Monitor blood glucose levels regularly",
+    "Regular blood pressure monitoring at home"
+  ],
+  "attention_flag": "Non-adherence to medication needs urgent intervention to prevent further health complications"
+}

@@ -1,0 +1,14 @@
+{
+  "daily_analysis": "Patient reports persistent fatigue and overwhelming stress, correlating with low sleep hours and poor HRV. Diet and medication adherence concerns noted.",
+  "adherence_score": "LOW",
+  "detected_anomalies": [
+    "Skipped Metformin doses today",
+    "Low HRV (22)",
+    "Insufficient sleep (4.5 hours)",
+    "High perceived stress (5)",
+    "Low activity level (2500 steps)"
+  ],
+  "pipeline_status": "CRITICAL",
+  "patient_message": "I understand you’re feeling overwhelmed and tired. It’s important to address your medication and lifestyle changes to help you feel better.",
+  "doctor_report": "Patient skipped Metformin doses which is critical for managing Type 2 Diabetes. Low HRV and insufficient sleep indicate high physiological stress, exacerbating health issues. Immediate intervention is necessary."
+}

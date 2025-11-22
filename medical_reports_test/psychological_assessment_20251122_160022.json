@@ -1,0 +1,12 @@
+{
+  "daily_analysis": "Patient reports significant stress and low energy, correlating with poor sleep quality (4.5 hours) and low HRV (22). Energy levels are likely hindered by fatigue and current medications. The burning sensation post-dinner may relate to today's meals, but adherence to medication is unclear.",
+  "adherence_score": "LOW",
+  "detected_anomalies": [
+    "Low sleep hours (4.5 hours)",
+    "Low HRV (22)",
+    "Skipped medication (need confirmation on Metformin and Omeprazole adherence)"
+  ],
+  "pipeline_status": "CRITICAL",
+  "patient_message": "I understand that managing your health can feel overwhelming, especially with how tired you've been. It's crucial we ensure you're sticking to your treatment plan to prevent further complications. Let's focus on this together.",
+  "doctor_report": "The low sleep hours and HRV suggest physiological stress, potentially exacerbating hypertension and diabetes. Confirmed non-adherence to medication needs to be addressed urgently to avoid further health issues."
+}

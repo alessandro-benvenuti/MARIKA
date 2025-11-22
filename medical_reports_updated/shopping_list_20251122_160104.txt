@@ -1,0 +1,45 @@
+🛒 SHOPPING LIST - 20251122_160104
+========================================
+
+📦 PRODUCE:
+  □ Bananas
+  □ Berries
+  □ Mixed greens
+  □ Tomatoes
+  □ Cucumbers
+  □ Broccoli
+  □ Bell peppers
+  □ Spinach
+  □ Avocado
+  □ Zucchini
+  □ Brussels sprouts
+  □ Carrots
+  □ Pineapple
+
+📦 PROTEINS:
+  □ Chicken breast
+  □ Turkey breast
+  □ Salmon
+  □ Shrimp
+  □ Tofu
+  □ Beef
+  □ Eggs
+  □ Cottage cheese
+  □ Feta cheese
+
+📦 GRAINS:
+  □ Oatmeal
+  □ Whole grain tortillas
+  □ Quinoa
+  □ Brown rice
+  □ Chia seeds
+
+📦 OTHER:
+  □ Almonds
+  □ Olive oil
+  □ Tahini
+  □ Vinaigrette
+  □ Unsweetened almond milk
+  □ Lentils
+  □ Falafel
+

@@ -1,0 +1,55 @@
+🏥 HEALTHCARE MAS REPORT - 20251122_160104
+============================================================
+
+📊 PIPELINE STATUS: CRITICAL
+⚕️  MEDICAL REVIEW: REQUIRED
+
+🩺 MEDICAL TREATMENT PLAN:
+------------------------------
+Diagnosis: The patient presents with metabolic syndrome characterized by Type 2 Diabetes Mellitus, essential hypertension, hyperlipidemia, and symptoms consistent with GERD.
+
+1. Metformin - 500mg
+   Frequency: 1 tablet twice daily
+   Instructions: With meals
+   Duration: Chronic
+   Purpose: To improve glycemic control in Type 2 Diabetes Mellitus
+
+2. Lisinopril - 10mg
+   Frequency: 1 tablet once daily
+   Instructions: With or without food
+   Duration: Chronic
+   Purpose: To manage hypertension
+
+3. Atorvastatin - 20mg
+   Frequency: 1 tablet once daily
+   Instructions: Evening, with or without food
+   Duration: Chronic
+   Purpose: To manage hyperlipidemia
+
+4. Omeprazole - 20mg
+   Frequency: 1 capsule once daily
+   Instructions: Before breakfast
+   Duration: 8 weeks
+   Purpose: To manage symptoms of GERD
+
+🥗 NUTRITION PLAN:
+------------------------------
+Strategy: Low-Carbohydrate Heart-Healthy
+Daily Calories: 1600 kcal
+Macro Distribution: 30% Carbs, 40% Protein, 30% Fat
+
+🧠 PSYCHOLOGICAL ASSESSMENT:
+------------------------------
+Analysis: Patient reports persistent fatigue and overwhelming stress, correlating with low sleep hours and poor HRV. Diet and medication adherence concerns noted.
+Adherence: LOW
+Patient Message: I understand you’re feeling overwhelmed and tired. It’s important to address your medication and lifestyle changes to help you feel better.
+
+⚠️ DETECTED ANOMALIES:
+- Skipped Metformin doses today
+- Low HRV (22)
+- Insufficient sleep (4.5 hours)
+- High perceived stress (5)
+- Low activity level (2500 steps)
+
+🚨 DOCTOR REPORT:
+Patient skipped Metformin doses which is critical for managing Type 2 Diabetes. Low HRV and insufficient sleep indicate high physiological stress, exacerbating health issues. Immediate intervention is necessary.

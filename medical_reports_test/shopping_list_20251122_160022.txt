@@ -1,0 +1,38 @@
+🛒 SHOPPING LIST - 20251122_160022
+========================================
+
+📦 PRODUCE:
+  □ Spinach
+  □ Broccoli
+  □ Berries
+  □ Bell Peppers
+  □ Asparagus
+  □ Zucchini
+  □ Lettuce
+  □ Strawberries
+  □ Nuts
+  □ Banana
+  □ Cabbage
+  □ Fruit
+
+📦 PROTEINS:
+  □ Eggs
+  □ Chicken Breast
+  □ Salmon
+  □ Tofu
+  □ Shrimp
+  □ Turkey
+  □ Ground Beef
+
+📦 GRAINS:
+  □ Quinoa
+  □ Whole grain bread
+  □ Oatmeal
+
+📦 OTHER:
+  □ Olive oil
+  □ Almond milk
+  □ Chia seeds
+  □ Marinara sauce
+  □ Spices
+

@@ -1,0 +1,53 @@
+🏥 HEALTHCARE MAS REPORT - 20251122_160022
+============================================================
+
+📊 PIPELINE STATUS: CRITICAL
+⚕️  MEDICAL REVIEW: REQUIRED
+
+🩺 MEDICAL TREATMENT PLAN:
+------------------------------
+Diagnosis: The patient presents with Type 2 Diabetes Mellitus, uncontrolled Essential Hypertension, Hyperlipidemia, and GERD, characterized by fatigue, nocturia, and burning sensation in the chest/throat postprandially.
+
+1. Metformin - 500 mg
+   Frequency: 1 tablet twice daily
+   Instructions: With meals
+   Duration: Chronic
+   Purpose: To improve glycemic control in Type 2 Diabetes
+
+2. Lisinopril - 10 mg
+   Frequency: 1 tablet daily
+   Instructions: On an empty stomach
+   Duration: Chronic
+   Purpose: To manage hypertension and provide renal protective effects
+
+3. Atorvastatin - 40 mg
+   Frequency: 1 tablet daily
+   Instructions: In the evening
+   Duration: Chronic
+   Purpose: To reduce LDL cholesterol levels and manage hyperlipidemia
+
+4. Omeprazole - 20 mg
+   Frequency: 1 capsule daily
+   Instructions: Before meals
+   Duration: 8 weeks
+   Purpose: To alleviate symptoms of GERD
+
+🥗 NUTRITION PLAN:
+------------------------------
+Strategy: Low-Carb Mediterranean
+Daily Calories: 1600 kcal
+Macro Distribution: 40% Carbs, 30% Protein, 30% Fat
+
+🧠 PSYCHOLOGICAL ASSESSMENT:
+------------------------------
+Analysis: Patient reports significant stress and low energy, correlating with poor sleep quality (4.5 hours) and low HRV (22). Energy levels are likely hindered by fatigue and current medications. The burning sensation post-dinner may relate to today's meals, but adherence to medication is unclear.
+Adherence: LOW
+Patient Message: I understand that managing your health can feel overwhelming, especially with how tired you've been. It's crucial we ensure you're sticking to your treatment plan to prevent further complications. Let's focus on this together.
+
+⚠️ DETECTED ANOMALIES:
+- Low sleep hours (4.5 hours)
+- Low HRV (22)
+- Skipped medication (need confirmation on Metformin and Omeprazole adherence)
+
+🚨 DOCTOR REPORT:
+The low sleep hours and HRV suggest physiological stress, potentially exacerbating hypertension and diabetes. Confirmed non-adherence to medication needs to be addressed urgently to avoid further health issues.

@@ -1,0 +1,44 @@
+{
+  "diagnostic_summary": "The patient presents with Type 2 Diabetes Mellitus, uncontrolled Essential Hypertension, Hyperlipidemia, and GERD, characterized by fatigue, nocturia, and burning sensation in the chest/throat postprandially.",
+  "treatment_plan": [
+    {
+      "medication": "Metformin",
+      "dosage": "500 mg",
+      "frequency": "1 tablet twice daily",
+      "administration_instructions": "With meals",
+      "duration": "Chronic",
+      "purpose": "To improve glycemic control in Type 2 Diabetes"
+    },
+    {
+      "medication": "Lisinopril",
+      "dosage": "10 mg",
+      "frequency": "1 tablet daily",
+      "administration_instructions": "On an empty stomach",
+      "duration": "Chronic",
+      "purpose": "To manage hypertension and provide renal protective effects"
+    },
+    {
+      "medication": "Atorvastatin",
+      "dosage": "40 mg",
+      "frequency": "1 tablet daily",
+      "administration_instructions": "In the evening",
+      "duration": "Chronic",
+      "purpose": "To reduce LDL cholesterol levels and manage hyperlipidemia"
+    },
+    {
+      "medication": "Omeprazole",
+      "dosage": "20 mg",
+      "frequency": "1 capsule daily",
+      "administration_instructions": "Before meals",
+      "duration": "8 weeks",
+      "purpose": "To alleviate symptoms of GERD"
+    }
+  ],
+  "medical_recommendations": [
+    "Encourage weight loss through diet and exercise.",
+    "Implement a low-sodium, low-carb diet.",
+    "Monitor blood pressure regularly.",
+    "Regular follow-ups for HbA1c and lipid levels."
+  ],
+  "attention_flag": "None"
+}
