@@ -1,4 +1,4 @@
-# HealthcareMAS 🏥
+# MARIKA MultiAgentSystem 🏥
 **Multi-Agent System for Healthcare Assistance**
 
 An advanced multi-agent system designed to assist healthcare professionals in integrated patient management through specialized AI agents across different medical domains.
