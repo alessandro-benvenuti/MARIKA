@@ -3,6 +3,8 @@
 
 An advanced multi-agent system designed to assist healthcare professionals in integrated patient management through specialized AI agents across different medical domains.
 
+> **Note:** This project is a detached fork of the work developed during **Reply Studen Clash: Agentic** in collaboration with **Francesco Borrelli, Davide Carletto and Federico Carollo**. The original repository can be found [here](https://github.com/FedeCarollo/HealthcareMAS).
+
 ## 🎯 Project Overview
 
 HealthcareMAS is an innovative system that uses specialized AI agents to support medical decision-making in a "Human-in-the-Loop" environment. The system coordinates three main agents:
